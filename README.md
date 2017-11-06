@@ -5,16 +5,16 @@
 This project consists of two web-mapping applications. One is San Diego County Cancer Mapping Tool. The other one is San Diego Public Health Data Mapping Tool.
 
 The program starts from here:
-http://vision.sdsu.edu/health/  (The source code in the vision server is available here: C:\inetpub\wwwroot\health\index.html ). This website is the starting point.
+http://vision.sdsu.edu/health/  This website is the starting point.
 
-San Diego County Cancer Mapping Tool : http://vision.sdsu.edu/su42/sdcancermap/  (The source code in the vision server is available here: E:\Alpha Team\member folders\SuHan\SDCancerMap\index.html )
+San Diego County Cancer Mapping Tool : http://vision.sdsu.edu/su42/sdcancermap/  
 
-San Diego Public Health Mapping Tool : http://vision.sdsu.edu/su42/sdcancermap/health.html  (The source code in the vision server is available here: E:\Alpha Team\member\folders\SuHan\SDCancerMap\health.html )
+San Diego Public Health Mapping Tool : http://vision.sdsu.edu/su42/sdcancermap/health.html 
 
 The javascript codes of cancer.html and health.html are same. Only default color of the maps are different. Please note that cancer.js is imported for the cancer mapping tool, and health.js is imported for the health mapping tool.
 
 
-This program does not have server side program. All the data that has been used were saved in the format of Jason in javascript files. These are the data:
+This program does not have server side program. All data that have been used were saved in the format of Jason in javascript files. These are the data:
 
 polygon.js  ( coordinates of all vertices of polygons)
 cancer.js  (cancer data)
