@@ -1,4 +1,4 @@
-# HealthMapper
+# HealthWEbMapper
 
 <img src="http://vision.sdsu.edu/su42/images/project/health_mapping.png" alt="HDMA_health" />
 
@@ -38,3 +38,5 @@ Bootstrap
 AlaSQL (http://alasql.org/)
 JQuery (https://jquery.com/)
 Converter between JSON and CSV ( http://www.convertcsv.com/json-to-csv.htm )
+
+***HealthWEbMapper was developed by HDMA center at SDSU. The main developer is Su Yeon Han. For questoins, email to hdmasdsu@gmail.com
