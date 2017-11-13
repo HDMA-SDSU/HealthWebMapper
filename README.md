@@ -44,7 +44,7 @@ Technical Document: http://vision.sdsu.edu/su42/sdcancermap/Technical_Document.p
 
 
 
-# Copyright (c) 2017 HDMA-SDSU #
+## Copyright (c) 2017 HDMA-SDSU ##
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
