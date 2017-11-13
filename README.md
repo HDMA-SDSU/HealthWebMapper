@@ -42,7 +42,9 @@ Converter between JSON and CSV ( http://www.convertcsv.com/json-to-csv.htm )
 ***HealthWEbMapper was developed by HDMA center at SDSU. The main developer is Su Yeon Han. For questoins, email to hdmasdsu@gmail.com
 Technical Document: http://vision.sdsu.edu/su42/sdcancermap/Technical_Document.pdf
 
-Copyright (c) 2017 HDMA-SDSU
+
+
+# Copyright (c) 2017 HDMA-SDSU #
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
