@@ -1,4 +1,4 @@
-# HealthWebMapper
+# HealthWebMapper (Version 1.0)
 
 <img src="http://vision.sdsu.edu/su42/images/project/health_mapping.png" alt="HDMA_health" />
 
