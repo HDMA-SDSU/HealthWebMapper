@@ -1,6 +1,7 @@
 # HealthWebMapper (Version 1.0)
-
-<img src="http://vision.sdsu.edu/su42/images/project/health_mapping.png" alt="HDMA_health" />
+<a href="http://vision.sdsu.edu/health/">
+  <img src="http://vision.sdsu.edu/su42/images/project/health_mapping.png" alt="HDMA_health" />
+</a>
 
 This project consists of two web-mapping applications. One is San Diego County Cancer Mapping Tool. The other one is San Diego Public Health Data Mapping Tool.
 
