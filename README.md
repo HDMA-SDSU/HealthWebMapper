@@ -6,10 +6,10 @@
 This project consists of two web-mapping applications. One is San Diego County Cancer Mapping Tool. The other one is San Diego Public Health Data Mapping Tool.
 
 The program starts from here:
-http://mappingideas.sdsu.edu/sdhealthmap/  This website is the starting point.
+http://mappingideas.sdsu.edu/sdhealthmap/
 
-San Diego County Cancer Mapping Tool : http://mappingideas.sdsu.edu/sdhealthmap/cancer/
-San Diego Public Health Mapping Tool : http://mappingideas.sdsu.edu/sdhealthmap/health/
+  San Diego County Cancer Mapping Tool: http://mappingideas.sdsu.edu/sdhealthmap/cancer/  
+  San Diego Public Health Mapping Tool: http://mappingideas.sdsu.edu/sdhealthmap/health/  
 
 The javascript codes of cancer.html and health.html are same. Only default color of the maps are different. Please note that cancer.js is imported for the cancer mapping tool, and health.js is imported for the health mapping tool.
 
