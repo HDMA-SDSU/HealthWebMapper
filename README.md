@@ -1,16 +1,15 @@
 # HealthWebMapper (Version 1.0)
 <a href="http://vision.sdsu.edu/health/">
-  <img src="http://vision.sdsu.edu/su42/images/project/health_mapping.png" alt="HDMA_health" />
+  <img src="http://mappingideas.sdsu.edu/sdhealthmap/images/homepage.png" alt="homepage" />
 </a>
 
 This project consists of two web-mapping applications. One is San Diego County Cancer Mapping Tool. The other one is San Diego Public Health Data Mapping Tool.
 
 The program starts from here:
-http://vision.sdsu.edu/health/  This website is the starting point.
+http://mappingideas.sdsu.edu/sdhealthmap/  This website is the starting point.
 
-San Diego County Cancer Mapping Tool : http://vision.sdsu.edu/su42/sdcancermap/  
-
-San Diego Public Health Mapping Tool : http://vision.sdsu.edu/su42/sdcancermap/health.html 
+San Diego County Cancer Mapping Tool : http://mappingideas.sdsu.edu/sdhealthmap/cancer/
+San Diego Public Health Mapping Tool : http://mappingideas.sdsu.edu/sdhealthmap/health/
 
 The javascript codes of cancer.html and health.html are same. Only default color of the maps are different. Please note that cancer.js is imported for the cancer mapping tool, and health.js is imported for the health mapping tool.
 
