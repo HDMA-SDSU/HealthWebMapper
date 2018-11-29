@@ -1,5 +1,5 @@
 # HealthWebMapper (Version 1.0)
-<a href="http://vision.sdsu.edu/health/">
+<a href="http://mappingideas.sdsu.edu/sdhealthmap/">
   <img src="http://mappingideas.sdsu.edu/sdhealthmap/images/homepage.png" alt="homepage" />
 </a>
 
