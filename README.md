@@ -30,17 +30,17 @@ NoShown.js ( remove some of variables that can be chosen on the top of the map)
 
 Links for the related libraries and websites
 
-Leaflet.Sync (https://github.com/turban/Leaflet.Sync)
-Leaflet (http://leafletjs.com/)
-Google Bar Charts (https://developers.google.com/chart/interactive/docs/gallery/barchart)
-Colorbrewer was used for the map color (http://colorbrewer2.org/)
-Bootstrap
-AlaSQL (http://alasql.org/)
-JQuery (https://jquery.com/)
-Converter between JSON and CSV ( http://www.convertcsv.com/json-to-csv.htm )
+Leaflet.Sync (https://github.com/turban/Leaflet.Sync)  
+Leaflet (http://leafletjs.com/)  
+Google Bar Charts (https://developers.google.com/chart/interactive/docs/gallery/barchart)  
+Colorbrewer was used for the map color (http://colorbrewer2.org/)  
+Bootstrap  
+AlaSQL (http://alasql.org/)  
+JQuery (https://jquery.com/)  
+Converter between JSON and CSV ( http://www.convertcsv.com/json-to-csv.htm )  
 
 * HealthWEbMapper was developed by HDMA center at SDSU. The main developer is Su Yeon Han. For questoins, email to hdmasdsu@gmail.com
-* Technical Document: http://vision.sdsu.edu/su42/sdcancermap/Technical_Document.pdf 
+* Technical Document: 
 
 
 
